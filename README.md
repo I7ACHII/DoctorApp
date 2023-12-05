@@ -16,7 +16,6 @@ Welcome to Doctor App, your go-to Java SpringBoot backend UI for hassle-free app
 - **Hibernate and JPA:** Simplifying database interactions with the power of object-relational mapping.
 - **MySQL:** Efficient storage and retrieval of data for a seamless user experience.
 - **Swagger:** Explore and test APIs effortlessly with Swagger documentation.
-
 - **Lombok:** Say goodbye to boilerplate code for cleaner, more readable code.
 
 ## 🚦 Getting Started
